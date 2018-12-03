@@ -1,4 +1,4 @@
-<?php
+ <?php
 /**
  * The template for displaying the footer
  *
@@ -6,7 +6,7 @@
  *
  * @package WordPress
  * @subpackage Twenty_Sixteen
- * @since Twenty Sixteen 1.0
+//  * @since Twenty Sixteen 1.0
  */
 ?>
 
@@ -63,4 +63,4 @@
 
 <?php wp_footer(); ?>
 </body>
-</html>
+</html> 

@@ -1,0 +1,21 @@
+/*
+Theme Name: twentysixteenChild
+Theme URI: 
+Description: A child theme of Twenty Sixteen
+Author: kanchan
+Author URI: <your website>
+Template: twentysixteen
+Version: 0.1.0
+*/
+@import url("../twentysixteen/style.css");
+.entry-title {
+    font-size: 1.5rem;
+   
+}
+.post-navigation .post-title {
+   font-size: 1rem;
+
+}
+.navigation post-navigation{
+    color: #d0d0d0;
+}
